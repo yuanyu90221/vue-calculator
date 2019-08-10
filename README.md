@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Calculator
+
+[calculator demo](https://glamorous-dinosaurs.surge.sh)
